@@ -17,7 +17,6 @@ print(x)
 print(yearly_income)
 print(x)
 #insert your taxes here
-#taxes must be presented in the following way: 0.x 
 taxes = input("Whats the tax rate in your country?")
 
 taxes_b = int(taxes) / 100
