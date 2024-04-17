@@ -1,8 +1,8 @@
 I’m @edgarisnew
 
-I’m interested in data analytics & QA
+I’m interested in QA
 
-I’m currently learning data analytics
+I’m currently learning Quality Assurance Testing
 
 How to reach me, please don't, there is literally nothing i can help you with
 
