@@ -32,8 +32,8 @@ print(x)
 
 yearly_after = yearly_income * taxes_b
 
-if float(taxes)<0 or float(taxes)>100:
-   print("ERROR: Taxes cannot be under or above 100")
+if int(taxes)<0 or int(taxes)>100:
+   print("ERROR: Taxes cannot be under 0 or above 100")
 
 else:
   print(yearly_after)
