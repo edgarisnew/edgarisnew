@@ -1,10 +1,10 @@
 I’m @edgarisnew
 
-I’m interested in QA
+I’m heavily interested in QA
 
-I’m currently learning Quality Assurance Testing
+Trying my best to change carreers, wish me luck! 
 
-How to reach me, please don't, there is literally nothing i can help you with
+I cant probably help you guys out with anything yet but hopefuly in the future! You can reach me through my discord: palaemon.
 
-Fun fact: I'm actually a law student.
+Fun fact: I'm actually a law student (for now) ;) 
 
