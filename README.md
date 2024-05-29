@@ -1,6 +1,6 @@
 I’m @edgarisnew
 
-I’m heavily interested in QA
+I’m heavily interested in QA & Automation
 
 Trying my best to change carreers, wish me luck! 
 
